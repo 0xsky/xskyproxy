@@ -12,7 +12,7 @@ xSkyProxy是一个简单易用的MYSQL代理程序，提供mysql数据分库分�
 
 
 ### xSkyProxy 的 Sharding 架构
-![xSkyProxy](http://xskyproxy.0xsky.com/images/plans.png)
+![mahua](http://xskyproxy.0xsky.com/images/plans.png)
 
 ### xSkyProxy 中的分库分表概念
 
@@ -20,10 +20,11 @@ xSkyProxy是一个简单易用的MYSQL代理程序，提供mysql数据分库分�
 
 
 ### xSkyProxy内置的分库分表算法
-
+todo
 
 ### xSkyProxy数据切分策略
-xSkyProxy 数据切分支持内置部分分库分表算法，也支持从外部加载用户自定义的分库分表算法。
+xSkyProxy自带多种常见分库分表算法(取模/按时间/按范围/等)
+也支持运行时从外部SO加载自定义的分库分表算法。
 
 ### xSkyProxy中MYSQL语句与语法的有限支持
 xSkyProxy 目前只支持 select/delete/update/insert/replace 语句(经过测试,别的语句可能也支持但未经测试过);
