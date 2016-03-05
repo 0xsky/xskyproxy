@@ -36,7 +36,8 @@ xSkyProxy 目前不支持分布式事务。因为数据被分库分表的原因�
 xSkyProxy 的分库分表功能支持数据分布在同一个库的多个表里，也支持分布在多个库的多个表里;采用分库的方式在数据量大时可以很容易的做到迁移数据降低负载,只需要把分库迁移到新的MYSQL实例上,同时修改连接表里对应新库对应的主机连接信息。
 
 ###xSkyProxy 管理后台与性能监控
-xSkyProxy 提供web后台对配置信息进行管理，同时后台也可以查看 xSkyProxy进程内部的连接状态与统计信息。
+xSkyProxy 提供web后台对配置信息进行管理，同时后台也可以查看 xSkyProxy进程内部运行状态与统计信息。
+[后台demo](http://yun.0xsky.com:8000)
 
 ###xSkyProxy 与 mysqlproxy 
 xSkyProxy 不是基于mysqlproxy的修改版. 程序主要框架用C++开发,基于libevent, 语法分析Flex.
