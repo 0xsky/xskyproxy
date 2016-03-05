@@ -12,7 +12,7 @@ xSkyProxy是一个简单易用的MYSQL代理程序，提供mysql数据分库分�
 
 
 ### xSkyProxy 的 Sharding 架构
-![mahua](http://xskyproxy.0xsky.com/images/plans.png)
+![xSkyProxy](http://xskyproxy.0xsky.com/images/plans.png)
 
 ### xSkyProxy 中的分库分表概念
 
