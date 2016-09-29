@@ -49,4 +49,4 @@ xSkyProxy 不是基于mysqlproxy的修改版. 程序主要框架用C++开发,基
 
 * 邮件(guozhw#gmail.com, 把#换成@)
 * xSkyProxy 社区QQ群 302102856
-* [http://xskyproxy.0xsky.com/](http://mouapp.com/http://xskyproxy.0xsky.com/)
+* [http://xskyproxy.0xsky.com/](http://xskyproxy.0xsky.com/)
