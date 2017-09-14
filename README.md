@@ -1,6 +1,6 @@
 xSkyProxy
 =====
-xSkyProxy是一个简单易用的MYSQL代理程序，提供mysql数据分库分表，连接池，主从读写分离等功能。 xSkyProxy 开源社区群 302102856
+xSkyProxy是一个C++开发的简单易用的MYSQL代理程序，提供mysql数据分库分表，连接池，主从读写分离等功能。 xSkyProxy 开源社区群 302102856
 
 * 功能与特性
     * 1.多模式运行：Mysql数据代理转发或是分库分表
